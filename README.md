@@ -7,6 +7,8 @@ In this repository you will find a demo about the profile information component
 <br>
 made with pasion ❤️‍🔥 
 
+You can see the demo here: [Jose Escobar Profile](https://dice-game-api.herokuapp.com/createGame "juego de apuestas de dados virtual")
+
 
 
 ## Available Scripts
